@@ -2,6 +2,10 @@
 
 This class taught assembly on a simulated MIPS architecture. The Mars IDE can be downloaded [here](https://computerscience.missouristate.edu/mars-mips-simulator.htm)
 
+Typically the `submission.asm` file is the final lab. I don't have the lab instructions.
+
+I highly recommend checking out the [final project](https://github.com/deleomike/BattleShip-Assembly) I did, its a fascinating use of object orientated programming techniques in assembly.
+
 - Final Project
   - [Battleship Repo](https://github.com/deleomike/BattleShip-Assembly)
   - [Battleship written in Assembly (Submodule folder)](./src/battleship/)
