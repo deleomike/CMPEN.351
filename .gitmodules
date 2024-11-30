@@ -1,0 +1,3 @@
+[submodule "src/battleship"]
+	path = src/battleship
+	url = git@github.com:deleomike/BattleShip-Assembly.git
