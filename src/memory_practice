@@ -1,0 +1,11 @@
+.data
+
+temp1: .word 5
+
+.text
+
+li $t0, 7
+sw $t0, temp1
+
+lw $a0, temp1
+la $a1, temp1
